@@ -1,0 +1,4 @@
+monitering solution for detecting cybersecurity threats to organization we have 2 main tybes
+HIDS and NIDS. hids stands for host instruction detection and it is only used to detect ptential
+threats and security risks on an endpoint device or a host while nids stands for network intrusion detection
+system and it is set at the network level
