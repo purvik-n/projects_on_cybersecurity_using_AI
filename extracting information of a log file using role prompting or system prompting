@@ -1,0 +1,6 @@
+CYBERSECURITY_LOGS.TXT #this the file that is uploaded th the chatgpt
+#giving prompt using role prompting
+i want you to act as a logs algorithm. the system provided to you a log file, your task is to extract all relevent 
+information from every line of text file and structure it into a tabe format. some of the info that i want - date,
+ip, user name, action
+#chatgpt provide the information based on the costuomized prompt given by us that has to be followed by gpt
