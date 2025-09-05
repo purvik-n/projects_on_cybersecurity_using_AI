@@ -1,0 +1,3 @@
+idsIDS (Intrusion Detection System) is a passive security system that monitors network traffic for malicious activity
+and alerts administrators when a threat is detected, while IPS (Intrusion Prevention System) 
+is an active security system that both detects and automatically blocks threats in real-time,
